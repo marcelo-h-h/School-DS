@@ -48,7 +48,13 @@ Para rodar o notebook Python e acompanhar a análise:
 2. No navegador, navegue até o arquivo `Work.ipynb` e abra-o.
 3. Execute as células do notebook sequencialmente para reproduzir a análise.
 
-### Importando um Notebook no Jupyter
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 
 ***
 ---
@@ -104,14 +110,6 @@ To run the Python notebook and follow the analysis:
 2. In your browser, navigate to the `Work.ipynb` file and open it.
 3. Execute the notebook cells sequentially to reproduce the analysis.
 
-### Importing a Notebook in Jupyter
-
-To import an existing notebook in Jupyter:
-
-1. In the Jupyter Notebook home menu, click "Upload" at the top right corner.
-2. Select the `.ipynb` file you want to import.
-3. Click the "Upload" button next to the file to complete the import.
-4. The imported notebook will now appear in the file list and can be opened for editing and execution.
 
 ## Contribution
 
@@ -121,26 +119,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 This project is licensed under the terms of the [MIT License](LICENSE).
 
-### Contact
 
-For questions or suggestions, contact via email at [marcelo-h-h@Hotmail.com](mailto:marcelo-h-h@Hotmail.com).
-
-
-Para importar um notebook existente no Jupyter:
-
-1. No menu inicial do Jupyter Notebook, clique em "Upload" no canto superior direito.
-2. Selecione o arquivo `.ipynb` que deseja importar.
-3. Clique no botão "Upload" ao lado do arquivo para completar a importação.
-4. O notebook importado agora aparecerá na lista de arquivos e poderá ser aberto para edição e execução.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
-
-### Contato
-
-Para dúvidas ou sugestões, entre em contato pelo email [marcelo-h-h@Hotmail.com](mailto:marcelo-h-h@Hotmail.com).
